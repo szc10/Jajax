@@ -1,6 +1,6 @@
 /*!
  * Jajax JavaScript Library v0.1.0
- * http://
+ * https://github.com/szc10/Jajax
  *
  * author: 施哲晨
  * inf:一个轻量化的ajax组件
