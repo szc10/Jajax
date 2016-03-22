@@ -1,2 +1,2 @@
 # Jajax
-list go
+##轻量化ajax来了
